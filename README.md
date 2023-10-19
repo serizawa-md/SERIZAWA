@@ -35,7 +35,7 @@
  </p>
 <h3 align="center">Multi-device WhatsApp bot</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=serizawa-md&label=Profile%20views&color=0e75b6&style=flat" alt="serizawa-md" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=serizawa-md&label=Profil%20vues&color=0e75b6&style=flat" alt="serizawa-md" /> </p>
 
 - 🔭 Nous travaillons actuellement sur [serizawa-md bot](https://chat.whatsapp.com/DxOBjdHLovEJQhwRDXPow3)
 
@@ -55,16 +55,17 @@ Configuration du bot :
    - Ouvrez un éditeur de texte dans Termux en utilisant la commande `nano` ou `vim`.
  Recherchez le fichier de configuration du bot (généralement `config.js` ou `config.json`) et modifiez les paramètres selon vos besoins.
 ```
-- 📫 Écrire au support :
-[**Gmail**](francisvoufo@gmail.com)
 
 - 📄 Licence
   
-  Ce projet est sous licence GPL-3 ,voir le fichier [LICENSE.md](LICENSE.md) pour plus de détails
+  Ce projet est sous licence GPL-3 ,voir le fichier [LICENSE.md](LICENCE) pour plus de détails
 
 - 🏋️ Développeurs
   
   [**Auteurs**](https://github.com/PurpleBooth)
+  
+ - 📫 Écrire au support :
+[**Gmail**](francisvoufo@gmail.com)
 
 ## Notes
  - _Je ne peux pas garantir ou être tenu responsable si vous êtes bloqué ou banni en utilisant ce logiciel. WhatsApp n'autorise pas les robots utilisant des méthodes non officielles sur sa plateforme, cela ne doit donc pas être considéré comme totalement sûr._
@@ -75,7 +76,7 @@ Configuration du bot :
  - _Il s'agit d'un logiciel indépendant et non officiel. Utilisez-le à vos propres risques._
 
 ### Remerciements :
-**Merc à vous !**
+*Merci à vous !*
 
 <h3 align="left">Languages et outils:</h3>
 <p align="left"> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
