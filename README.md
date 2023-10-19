@@ -4,23 +4,37 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=serizawa-md" alt="serizawa-md" /></a> </p>
 
-- 🔭 I’m currently working on [serizawa-md bot](https://chat.whatsapp.com/DxOBjdHLovEJQhwRDXPow3)
+- 🔭 Nous travaillons actuellement sur [serizawa-md bot](https://chat.whatsapp.com/DxOBjdHLovEJQhwRDXPow3)
 
-- 🌱 I’m currently learning **Node JS, Python...**
+- 🌱 Nous débutons dans le coding **Node JS, Python...**
 
-- 👯 I’m looking to collaborate on **Multi-fonctionnal WhatsApp bot project**
+- 🤝 Nous avons besoin de collaborateurs pour le projet  [SERIZAWA-MD](https://github.com/serizawa-md)
 
-- 🤝 I’m looking for help with [SERIZAWA-MD](https://github.com/serizawa-md)
+- 💬 Termux déploiement
 
-- 📝 WhatsApp Group [https://chat.whatsapp.com/BoTs9plLd9A0vQjDLgCwKR](https://chat.whatsapp.com/BoTs9plLd9A0vQjDLgCwKR)
-
-- 💬 Ask me about **Deployment**
-
+`pkg update && pkg upgrade`
+`git clone "lien du repository"`
+`cd "nom du bot"`
+`npm install`
+```
+Configuration du bot :
+   - Ouvrez un éditeur de texte dans Termux en utilisant la commande `nano` ou `vim`.
+ Recherchez le fichier de configuration du bot (généralement `config.js` ou `config.json`) et modifiez les paramètres selon vos besoins.
+```
 - 📫 How to reach me **francisvoufo@gmail.com**
 
-- 📄 GPL-3.0 licence [https://sendeyo.com/show/a570241970](https://sendeyo.com/show/a570241970)
+- 📄 Licence
+  Ce projet est sous licence GPL-3 ,voir le fichier [LICENSE.md](LICENSE.md) pour plus de détails
 
-- ⚡ Fun fact **Thnx to you**
+- 🏋️ Développeurs
+  [Auteurs](https://github.com/PurpleBooth)
+  
+- ⚡ Remerciements
+  **Thnx to you**
+
+  - 📝 WhatsApp Groupe
+    [WhatsApp Support Groupe 1](https://chat.whatsapp.com/B9nJSr7omFPKhXoPfzgQoq)
+    [WhatsApp Support Groupe 2](https://chat.whatsapp.com/BoTs9plLd9A0vQjDLgCwKR)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
