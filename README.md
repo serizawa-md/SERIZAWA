@@ -55,25 +55,27 @@ Configuration du bot :
    - Ouvrez un éditeur de texte dans Termux en utilisant la commande `nano` ou `vim`.
  Recherchez le fichier de configuration du bot (généralement `config.js` ou `config.json`) et modifiez les paramètres selon vos besoins.
 ```
-- 📫 How to reach me
+- 📫 Écrire au support :
 [**Gmail**](francisvoufo@gmail.com)
 
 - 📄 Licence
+  
   Ce projet est sous licence GPL-3 ,voir le fichier [LICENSE.md](LICENSE.md) pour plus de détails
 
 - 🏋️ Développeurs
-  [**Auteurs**](https://github.com/PurpleBooth)
   
-- ⚡ Remerciements
-  **Thnx to you**
+  [**Auteurs**](https://github.com/PurpleBooth)
 
-  - 📝 WhatsApp Groupe
-    [WhatsApp Support Groupe 1](https://chat.whatsapp.com/B9nJSr7omFPKhXoPfzgQoq)
-    [WhatsApp Support Groupe 2](https://chat.whatsapp.com/BoTs9plLd9A0vQjDLgCwKR)
+## Notes
+ - _Je ne peux pas garantir ou être tenu responsable si vous êtes bloqué ou banni en utilisant ce logiciel. WhatsApp n'autorise pas les robots utilisant des méthodes non officielles sur sa plateforme, cela ne doit donc pas être considéré comme totalement sûr._
+  
+## Legal
+ - _Ce code n'est en aucun cas affilié, autorisé, maintenu, sponsorisé ou approuvé par WA (WhatsApp) ou l'une de ses sociétés affiliées ou filiales._
+ - _Le site Web officiel de WhatsApp est disponible à l'adresse `https://whatsapp.com`. « WhatsApp » ainsi que les noms, marques, emblèmes et images associés sont des marques déposées de leurs propriétaires respectifs._
+ - _Il s'agit d'un logiciel indépendant et non officiel. Utilisez-le à vos propres risques._
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### Remerciements :
+**Merc à vous !**
 
 <h3 align="left">Languages et outils:</h3>
 <p align="left"> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
