@@ -1,4 +1,4 @@
-![](https://github.com/serizawa-md/rieur.gif)
+![](https://telegra.ph/file/e9e6da12c2d02b5227a6e.jpg)
 <h3 align="center">Multi-device WhatsApp bot</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serizawa-md&label=Profile%20views&color=0e75b6&style=flat" alt="serizawa-md" /> </p>
