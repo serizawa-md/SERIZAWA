@@ -7,16 +7,17 @@
 
 - 🔭 Nous travaillons actuellement sur [serizawa-md bot](https://chat.whatsapp.com/DxOBjdHLovEJQhwRDXPow3)
 
-- 🌱 Nous débutons dans le coding **Node JS, Python...**
+- 🌱 Nous débutons dans le coding `Node JS` `Python` `html 5` `css` `python`
 
 - 🤝 Nous avons besoin de collaborateurs pour le projet  [SERIZAWA-MD](https://github.com/serizawa-md)
 
 - 💬 Termux déploiement
-
-`pkg update && pkg upgrade`
-`git clone "lien du repository"`
-`cd "nom du bot"`
-`npm install`
+```
+pkg update && pkg upgrade
+git clone "lien du repository"
+cd "nom du bot"
+npm install
+```
 ```
 Configuration du bot :
    - Ouvrez un éditeur de texte dans Termux en utilisant la commande `nano` ou `vim`.
