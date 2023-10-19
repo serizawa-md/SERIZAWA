@@ -26,7 +26,7 @@
 <img src='https://img.shields.io/github/license/serizawa-md/SERIZAWA?color=%231e81b0&style=for-the-badge' width="143px">
 
   <p align="center"> 
-  <a aria-label="Join our chats" href=https://chat.whatsapp.com/CmY0THcJCUYEGxLJulhcRVhttps://chat.whatsapp.com/KFe2GEMBZ9eI1bpNVotZOW" target="_blank">
+  <a aria-label="Join our chats" href=https://chat.whatsapp.com/B9nJSr7omFPKhXoPfzgQoq" target="_blank">
    <img alt="whatsapp" src="https://img.shields.io/badge/Support Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
     <a aria-label="Join our chats" href="https://chat.whatsapp.com/CmY0THcJCUYEGxLJulhcRV" target="_blank">
    <img alt="whatsapp" src="https://img.shields.io/badge/Public Bot Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
