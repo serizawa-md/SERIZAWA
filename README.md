@@ -29,7 +29,7 @@
  <a href="https://github.com/serizawa-md/SERIZAWA/LICENCE">
 <img src='https://img.shields.io/github/license/serizawa-md/SERIZAWA?color=%231e81b0&style=for-the-badge' width="143px">
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{serizawa-md}/count.svg" alt="serizawa-md :: Visitor's Count" /></p>
+
   <p align="center"> 
   <a aria-label="Join our chats" href="https://chat.whatsapp.com/B9nJSr7omFPKhXoPfzgQoq" target="_blank">
    <img alt="whatsapp" src="https://img.shields.io/badge/Support Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
