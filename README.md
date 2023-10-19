@@ -1,4 +1,4 @@
-<h3 align="center">Multi-device WhatsApp bot created with @Kevinofc and @CrazyPrince</h3>
+<h3 align="center">Multi-device WhatsApp bot</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serizawa-md&label=Profile%20views&color=0e75b6&style=flat" alt="serizawa-md" /> </p>
 
@@ -31,9 +31,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/crazyprince"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="crazyprince" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=serizawa-md&show_icons=true&locale=en&layout=compact" alt="serizawa-md" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=serizawa-md&show_icons=true&locale=en" alt="serizawa-md" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=serizawa-md&" alt="serizawa-md" /></p>
