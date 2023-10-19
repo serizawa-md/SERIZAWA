@@ -21,13 +21,14 @@ Configuration du bot :
    - Ouvrez un éditeur de texte dans Termux en utilisant la commande `nano` ou `vim`.
  Recherchez le fichier de configuration du bot (généralement `config.js` ou `config.json`) et modifiez les paramètres selon vos besoins.
 ```
-- 📫 How to reach me **francisvoufo@gmail.com**
+- 📫 How to reach me
+[**Gmail**](francisvoufo@gmail.com)
 
 - 📄 Licence
   Ce projet est sous licence GPL-3 ,voir le fichier [LICENSE.md](LICENSE.md) pour plus de détails
 
 - 🏋️ Développeurs
-  [Auteurs](https://github.com/PurpleBooth)
+  [**Auteurs**](https://github.com/PurpleBooth)
   
 - ⚡ Remerciements
   **Thnx to you**
