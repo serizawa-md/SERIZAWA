@@ -1,7 +1,7 @@
 <h1 align="center">𝑺𝑬𝑹𝑰𝒁𝑨𝑾𝑨 𝑴𝑫</h1>
 </p>
 <p align="center">
-  <a href=https://chat.whatsapp.com/DxOBjdHLovEJQhwRDXPow3https://chat.whatsapp.com/DxOBjdHLovEJQhwRDXPow3">
+  <a href="https://chat.whatsapp.com/B9nJSr7omFPKhXoPfzgQoq">
     <img alt=Support height="350" src="https://telegra.ph/file/e9e6da12c2d02b5227a6e.jpg"> 
     </p>
     <p align="center">
