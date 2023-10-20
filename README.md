@@ -20,9 +20,11 @@
 
 <p align="center">
   <a href="" target="_blank">
-    <img alt="Forked" src="https://img.shields.io/github/forks/serizawa-md/SERIZAWA" />
+    <img alt="Forked" src="https://img.shields.io/github/forks/serizawa-md/SERIZAWA" align="left" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=serizawa-md&label=Profil%20vues&color=0e75b6&style=flat" alt="serizawa-md" align="center" />
+  <a href="" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=serizawa-md&label=Profil%20vues&color=0e75b6&style=flat" alt="serizawa-md" align="right" />
+  </a>
 </p>
 
 <p align="center">
