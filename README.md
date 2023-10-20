@@ -67,11 +67,12 @@ Configuration du bot :
 
 - 🏋️ Développeurs
   
-  [**Auteurs**](https://github.com/PurpleBooth)
+  ## ```𝑪𝒍𝒊𝒒𝒖𝒆 𝒔𝒖𝒓 𝒍'𝒖𝒏 𝒅𝒆𝒔 𝒍𝒐𝒈𝒐𝒔 𝒑𝒐𝒖𝒓 𝒏𝒐𝒖𝒔 𝒄𝒐𝒏𝒕𝒂𝒄𝒕𝒆𝒓```
+ <p align="centre">
+  <a href="mailto:francisvoufo@gmai.com">
+    <img src="https://i.ibb.co/Kx8NXxT/mail-gmail-22737.png" align="centre" width="90" />
+   <a[**Auteurs**](https://github.com/PurpleBooth)
   
- - 📫 Écrire au support :
-[**Gmail**](francisvoufo@gmail.com)
-
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/237656774511)
 
 ## Notes
