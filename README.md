@@ -20,8 +20,10 @@
 
 <p align="center">
   <a href="" target="_blank">
-    <img alt="Forks" src="https://img.shields.io/github/forks/serizawa-md/SERIZAWA" />
+    <img alt="Forked" src="https://img.shields.io/github/forks/serizawa-md/SERIZAWA" />
   </a>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=serizawa-md&label=Profil%20vues&color=0e75b6&style=flat" alt="serizawa-md" /> </p>
 
 <p align="center">
 <a href="https://github.com/serizawa-md"><img title="Owner" src="https://img.shields.io/badge/Owner serizaw Organisation-black.svg?style=for-the-badge&logo=github" width="173px" height="29"></a>
@@ -38,8 +40,6 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{serizawa-md}/count.svg" alt="serizawa-md :: Visitor's Count" /></p>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=serizawa-md&label=Profil%20vues&color=0e75b6&style=flat" alt="serizawa-md" /> </p>
  </p>
 <h3 align="center">𝑴𝒖𝒍𝒕𝒊-𝑫𝒆𝒗𝒊𝒄𝒆 𝑾𝒉𝒂𝒕𝒔𝒂𝒑𝒑 𝑩𝒐𝒕</h3>
 
