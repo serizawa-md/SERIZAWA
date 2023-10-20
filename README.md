@@ -21,7 +21,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/serizawa-md/SERIZAWA/stargazers/" align="center">
-    <img title="Etoiles" src="https://img.shields.io/github/stars/serizawa-md/SERIZAWA?color=white&style=flat" />
+    <img title="Etoiles" src="https://img.shields.io/github/stars/serizawa-md/SERIZAWA?color=0e75b6&style=flat" />
   </a>
 </p>
 
