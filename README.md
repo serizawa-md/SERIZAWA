@@ -43,30 +43,29 @@
  </p>
 <h3 align="center">𝑴𝒖𝒍𝒕𝒊-𝑫𝒆𝒗𝒊𝒄𝒆 𝑾𝒉𝒂𝒕𝒔𝒂𝒑𝒑 𝑩𝒐𝒕</h3>
 
-- 🔭 Nous travaillons actuellement sur [serizawa-md bot](https://chat.whatsapp.com/DxOBjdHLovEJQhwRDXPow3)
+- 🔭 𝑵𝒐𝒖𝒔 𝒕𝒓𝒂𝒗𝒂𝒊𝒍𝒍𝒐𝒏𝒔 𝒂𝒄𝒕𝒖𝒆𝒍𝒍𝒆𝒎𝒆𝒏𝒕 𝒔𝒖𝒓 [𝒔𝒆𝒓𝒊𝒛𝒂𝒘𝒂-𝒎𝒅](https://chat.whatsapp.com/DxOBjdHLovEJQhwRDXPow3)
 
-- 🌱 Nous débutons dans le coding `Node JS` `Python` `html 5` `css` `python`
+- 🌱 𝑵𝒐𝒖𝒔 𝒅𝒆𝒃𝒖𝒕𝒐𝒏𝒔 𝒅𝒂𝒏𝒔 𝒍𝒆 𝒄𝒐𝒅𝒊𝒏𝒈 `𝑵𝒐𝒅𝒆.𝒋𝒔` `𝑷𝒚𝒕𝒉𝒐𝒏` `𝑯𝒕𝒎𝒍 5` `𝑪𝒔𝒔` `𝑷𝒚𝒕𝒉𝒐𝒏`
 
-- 🤝 Nous avons besoin de collaborateurs pour le projet  [SERIZAWA-MD](https://github.com/serizawa-md)
+- 🤝 𝑻𝒐𝒖?𝒄𝒐𝒍𝒍𝒂𝒃𝒐𝒓𝒂𝒕𝒆𝒖𝒓𝒔 𝒗𝒐𝒖𝒍𝒂𝒏𝒕 𝒔'𝒊𝒎𝒑𝒍𝒊𝒒𝒖𝒆𝒓 𝒅𝒂𝒏𝒔 𝒏𝒐𝒕𝒓𝒆 𝒑𝒓𝒐𝒋𝒆𝒕 𝒆𝒔𝒕 𝒍𝒂 𝒃𝒊𝒆𝒏𝒗𝒆𝒏𝒖𝒆  [𝑺𝑬𝑹𝑰𝒁𝑨𝑾𝑨-𝑴𝑫](https://github.com/serizawa-md)
 
-- 💬 Termux déploiement
+- 💬 𝑻𝒆𝒓𝒎𝒖𝒙 𝒅𝒆𝒑𝒍𝒐𝒚𝒎𝒆𝒏𝒕
 ```
 pkg update && pkg upgrade
 git clone "lien du repository"
 cd "nom du bot"
 npm install
 ```
-```
-Configuration du bot :
+```𝒄𝒐𝒏𝒇𝒊𝒈𝒖𝒓𝒂𝒕𝒊𝒐𝒏 𝒅𝒖 𝒃𝒐𝒕 :
    - Ouvrez un éditeur de texte dans Termux en utilisant la commande `nano` ou `vim`.
  Recherchez le fichier de configuration du bot (généralement `config.js` ou `config.json`) et modifiez les paramètres selon vos besoins.
 ```
 
-- 📄 Licence
+- 📄 𝑳𝒊𝒄𝒆𝒏𝒄𝒆
   
-  Ce projet est sous licence GPL-3 ,voir le fichier [LICENSE.md](LICENCE) pour plus de détails
+ 𝑪𝒆 𝒑𝒓𝒐𝒋𝒆𝒕 𝒆𝒔𝒕 𝒔𝒐𝒖𝒔 𝒍𝒂 𝒍𝒊𝒄𝒆𝒏𝒄𝒆 GPL-3 𝒗𝒐𝒊𝒓 𝒍𝒆 𝒇𝒊𝒄𝒉𝒊𝒆𝒓𝒔 [LICENCE](Licence) 𝒑𝒐𝒖𝒓 𝒑𝒍𝒖𝒔 𝒅𝒆 𝒅𝒆𝒕𝒂𝒊𝒍𝒔.
 
-- 🏋️ Développeurs
+- 🏋️ [𝑫𝒆́𝒗𝒆𝒍𝒐𝒑𝒑𝒆𝒖𝒓𝒔]
   
   ## ```𝑪𝒍𝒊𝒒𝒖𝒆 𝒔𝒖𝒓 𝒍'𝒖𝒏 𝒅𝒆𝒔 𝒍𝒐𝒈𝒐𝒔 𝒑𝒐𝒖𝒓 𝒏𝒐𝒖𝒔 𝒄𝒐𝒏𝒕𝒂𝒄𝒕𝒆𝒓```
  <p align="centre">
