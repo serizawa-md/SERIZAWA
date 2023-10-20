@@ -22,8 +22,8 @@
   <a href="" target="_blank">
     <img alt="Forked" src="https://img.shields.io/github/forks/serizawa-md/SERIZAWA" />
   </a>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=serizawa-md&label=Profil%20vues&color=0e75b6&style=flat" alt="serizawa-md" /> </p>
+  <img src="https://komarev.com/ghpvc/?username=serizawa-md&label=Profil%20vues&color=0e75b6&style=flat" alt="serizawa-md" align="center" />
+</p>
 
 <p align="center">
 <a href="https://github.com/serizawa-md"><img title="Owner" src="https://img.shields.io/badge/Owner serizaw Organisation-black.svg?style=for-the-badge&logo=github" width="173px" height="29"></a>
