@@ -22,7 +22,8 @@
 
 <p align="center">
  <a href="https://github.com/serizawa-md/SERIZAWA/LICENCE">
-<img src='https://img.shields.io/github/license/serizawa-md/SERIZAWA?color=%231e81b0&style=for-the-badge' width="143px">
+<img src='https://img.shields.io/github/license/serizawa-md/SERIZAWA?color=%231e81b0&style=for-the-badge' width="143px" />
+ </a>
 </p>
 
   <p align="center"> 
