@@ -51,12 +51,22 @@
 
 - 🤝 𝑻𝒐𝒖𝒕 𝒄𝒐𝒍𝒍𝒂𝒃𝒐𝒓𝒂𝒕𝒆𝒖𝒓 𝒗𝒐𝒖𝒍𝒂𝒏𝒕 𝒔'𝒊𝒎𝒑𝒍𝒊𝒒𝒖𝒆𝒓 𝒅𝒂𝒏𝒔 𝒏𝒐𝒕𝒓𝒆 𝒑𝒓𝒐𝒋𝒆𝒕 𝒆𝒔𝒕 𝒍𝒂 𝒃𝒊𝒆𝒏𝒗𝒆𝒏𝒖𝒆  [𝑺𝑬𝑹𝑰𝒁𝑨𝑾𝑨-𝑴𝑫](https://github.com/serizawa-md)
 
-- 💬 𝑻𝒆𝒓𝒎𝒖𝒙 𝒅𝒆𝒑𝒍𝒐𝒚𝒎𝒆𝒏𝒕
+- 💬 𝑻𝒆𝒓𝒎𝒖𝒙 𝒅𝒆𝒑𝒍𝒐𝒊𝒆𝒎𝒆𝒏𝒕
 ```
+apt update
+apt upgrade
 pkg update && pkg upgrade
-git clone "lien du repository"
-cd "nom du bot"
+pkg install bash
+pkg install libwebp
+pkg install git -y
+pkg install nodejs -y 
+pkg install ffmpeg -y 
+pkg install wget
+pkg install imagemagick -y
+git clone https://github.com/serizawa-md/SERIZAWA
+cd SERIZAWA
 npm install
+npm start
 ```
 ```𝒄𝒐𝒏𝒇𝒊𝒈𝒖𝒓𝒂𝒕𝒊𝒐𝒏 𝒅𝒖 𝒃𝒐𝒕 :
    - Ouvrez un éditeur de texte dans Termux en utilisant la commande `nano` ou `vim`.
