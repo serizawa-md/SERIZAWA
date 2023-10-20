@@ -8,7 +8,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=34&duration=3500&pause=1000&color=d1fa02&center=true&width=435&lines=𝑩𝒊𝒆𝒏𝒗𝒆𝒏𝒖𝒆+𝑪𝒉𝒆𝒛;𝑺𝑬𝑹𝑰𝒁𝑨𝑾𝑨~𝑴𝑫;𝑩𝒐𝒕+𝑾𝒉𝒂𝒕𝒔𝒂𝒑𝒑;𝒎𝒖𝒍𝒕𝒊-𝑭𝒐𝒏𝒄𝒕𝒊𝒐𝒏𝒏𝒆𝒍;𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒑𝒆+𝑷𝒂𝒓;𝑲𝑬𝑵~𝑽 𝑶𝑭𝑪;𝑪𝑹𝑨𝒁𝒀 𝑷𝑹𝑰𝑵𝑪𝑬;𝑬𝒕;𝑽𝑨𝑻𝑨𝑵𝑻𝑬24;𝑹𝒆𝒂𝒍𝒊𝒔𝒆+𝑳𝒆+19%2F10%2F2023." alt="Typing SVG" /></a>
 
 <p align="center">
-<a href="#"><img title="Createurs" src="https://img.shields.io/badge/Creator-Serizawa|CrazyPrince-yellow.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Createurs" src="https://img.shields.io/badge/Createurs-Serizawa|CrazyPrince-yellow.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 <p align="center">
@@ -17,6 +17,11 @@
   </a>
   <a href="" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=serizawa-md&label=Profil%20vues&color=0e75b6&style=flat" alt="serizawa-md" align="right" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/serizawa-md/SERIZAWA/stargazers/" align="center">
+    <img title="Etoiles" src="https://img.shields.io/github/stars/serizawa-md/SERIZAWA?color=white&style=flat" />
   </a>
 </p>
 
