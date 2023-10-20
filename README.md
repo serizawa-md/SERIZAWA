@@ -72,6 +72,8 @@ Configuration du bot :
  - 📫 Écrire au support :
 [**Gmail**](francisvoufo@gmail.com)
 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/237656774511)
+
 ## Notes
  - _Je ne peux pas garantir ou être tenu responsable si vous êtes bloqué ou banni en utilisant ce logiciel. WhatsApp n'autorise pas les robots utilisant des méthodes non officielles sur sa plateforme, cela ne doit donc pas être considéré comme totalement sûr._
   
