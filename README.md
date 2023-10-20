@@ -10,17 +10,6 @@
 <p align="center">
 <a href="#"><img title="Createurs" src="https://img.shields.io/badge/Creator-Serizawa|CrazyPrince-yellow.svg?style=for-the-badge&logo=github"></a>
 </p>
-      
-<p align="center">
-  <a href="https://github.com/serizawa-md/SERIZAWA/fork">
-    <img src="https://github.com/serizawa-md/SERIZAWA/fork/serizawa-md/SERIZAWA?label=Fork&style=social">
-    
-    
-  <a href="https://github.com/serizawa-md/SERIZAWA/stargazers"> 
-    <img src="https://img.shields.io/github/stars/serzawa-md?style=social">
-  </a>
-
-</p>
 
 <p align="center">
   <a href="" target="_blank">
@@ -32,8 +21,6 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/serizawa-md"><img title="Owner" src="https://img.shields.io/badge/Owner serizaw Organisation-black.svg?style=for-the-badge&logo=github" width="173px" height="29"></a>
-
  <a href="https://github.com/serizawa-md/SERIZAWA/LICENCE">
 <img src='https://img.shields.io/github/license/serizawa-md/SERIZAWA?color=%231e81b0&style=for-the-badge' width="143px">
 </p>
